@@ -1,0 +1,19 @@
+body{
+    font-size: 300%;
+    font-family: sans-serif;
+}
+
+.red{
+    color: #990001;
+}
+
+span {
+    display: inline-block;
+    width: 100px;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    background-color: #e2dde4;
+    margin: 1px;
+    border-radius: 10px;
+}
