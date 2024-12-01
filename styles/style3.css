@@ -1,0 +1,42 @@
+
+.html-word {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+
+pre code {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+.hashtag {
+    background-color: #e0f7ff;
+    padding: 5px 10px; 
+    border-radius: 5px;
+    margin: 0 5px 5px 0;
+    display: inline-block;
+}
+
+
+.tag-example {
+    background-color: #f0f0f0;
+    padding: 3px 7px; 
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0 5px 5px 0; 
+    border: 1px solid #ccc;
+}
+
+h1{
+    text-align: center;
+}
+h2{text-align: center;}
+
+body{
+    font-size: 150%;
+}
