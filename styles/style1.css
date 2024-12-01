@@ -1,0 +1,23 @@
+body{
+    font-family: monospace;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 300%;
+    font-weight: bolder;
+    color: #463890;
+    
+}
+
+.text p{
+    font-size: large;
+}
+
+h1{
+    color: #7d8594;
+}
+h2{
+    color: #77899f;
+}
